@@ -1,0 +1,11 @@
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe.config
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.pdb
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\obj\Debug\TugasCalculator.csprojAssemblyReference.cache
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Hasil.resources
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Calculator.resources
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Properties.Resources.resources
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\obj\Debug\TugasCalculator.csproj.GenerateResource.cache
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\obj\Debug\TugasCalculator.csproj.CoreCompileInputs.cache
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.exe
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS01-12-21\TUGAS NOW\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.pdb
